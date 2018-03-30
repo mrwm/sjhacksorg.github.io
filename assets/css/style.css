@@ -105,12 +105,11 @@ p {
 .align-logo-text{
   text-align: justify;
   font-size: 25px;
-  margin-left: auto;
 }
 
 .img-sponsor {
-  width: 450px;
-  height: 450px;
+  width: 300px;
+  height: 300px;
 }
 
 /* for smaller screens --> mobile, tablet*/
@@ -128,6 +127,25 @@ p {
   .content-overlay{
     height: 75%;
     margin-top: 0;
+  }
+  .img-logo{
+    margin-left: 120px;
+  }
+}
+
+.FAQ {
+  text-align: center;
+  margin-left: 530px;
+  font-size: 45px;
+}
+
+@media (max-width: 576px) {
+  .img-logo{
+    margin-left: 120px;
+  }
+
+  .FAQ {
+    margin-left: 120px;
   }
 }
 
