@@ -1,7 +1,7 @@
 #nav {
   position: sticky;
   border-bottom: 1px solid #000080;
-  background-color: #1E90FF;
+  background-color: #000d1a;
   padding: 0px;
     z-index: 12;
 }
@@ -9,7 +9,7 @@
 
 }
 .nav-item:hover {
-  background-color: black;
+  background-color: #4e4e4e;
   color: black;
 
 .scrolled-nav .site-title  {
@@ -96,4 +96,3 @@
        font-size: 20px;
    }
  }
-

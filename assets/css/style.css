@@ -1,5 +1,5 @@
 body {
-  font-family: 'Mina', sans-serif;
+  font-family: 'Mina', 'Gidole', sans-serif;
   padding-top: 0px;
   background-color: #F5F5F5;
   text-align: center;
@@ -14,8 +14,12 @@ body {
 }
 
 
-
-
+@font-face {
+  font-family: 'Gidole';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Gidole'), url('..\fonts\Gidole-Regular.otf') format('truetype');
+}
 
 p {
   font-size: 16pt;
