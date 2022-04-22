@@ -26,6 +26,6 @@
   "homepage": "https://github.com/sjhacksorg/sjhacksorg.github.io#readme",
   "dependencies": {
     "fullpage": "^1.4.2",
-    "fullpage.js": "^2.9.6"
+    "fullpage.js": "^4.0.5"
   }
 }
